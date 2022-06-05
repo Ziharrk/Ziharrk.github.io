@@ -18,7 +18,7 @@ You can find contact details at <a href="https://www.ps.informatik.uni-kiel.de/e
 I am interested in Functional programming (preferrably with Haskell) and compiler tooling.
 In the past I have also worked a bit with Coq and on high-performance numerical computations with CPU and GPU.  
 
-My current project is a plugin for GHC that adds an implicit monadic effect to a language. The tool aims to simplify developmenmt of research languages/DSLs and to provide a tight integration with Haskell. The project is currently unpublished (see below), but the tool is available at https://github.com/cau-placc/ghc-language-plugin. 
+My current project is a plugin for GHC that adds an implicit monadic effect to a language. The tool aims to simplify developmenmt of research languages/DSLs and to provide a tight integration with Haskell. The project is currently unpublished (see below), but the github repository for the tool is available [here](https://github.com/cau-placc/ghc-language-plugin). 
 Within this project I learned a lot about the internals of the Glasgow Haskell Compiler. 
 I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org/ghc/ghc/-/issues/20671) that bothered me. 
 
@@ -27,8 +27,8 @@ I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org
 - Master's Thesis: [Extending the Glasgow Haskell Compiler for functional-logic Programs with Curry-Plugin](https://www.informatik.uni-kiel.de/~mh/lehre/abschlussarbeiten/msc/Prott.pdf) (2020, K. Prott)
 
 Yet to be published: 
-- A project on using a plugin to add an implicit monadic effect to Haskell code (https://github.com/cau-placc/ghc-language-plugin).
-- A project on modeling Curry as a monad with memoization to increase runtime performance (https://github.com/cau-placc/curry-monad).
+- A project on using a plugin to add an implicit monadic effect to Haskell code ([https://github.com/cau-placc/ghc-language-plugin](https://github.com/cau-placc/ghc-language-plugin)).
+- A project on modeling Curry as a monad with memoization to increase runtime performance ([https://github.com/cau-placc/curry-monad](https://github.com/cau-placc/curry-monad)).
 
 ### Education 
 - November 2020 - current: PhD Student at Kiel University in Computer Science

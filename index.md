@@ -33,7 +33,7 @@ Yet to be published:
 - November 2020 - current: PhD Student at Kiel University in Computer Science
 - October 2018 - October 2020: Studied at Kiel University -- Master of Science (Computer Science) -- Graduated with Grade 1.0.
 - October 2015 - October 2018: Studied  at Kiel University -- Master of Science (Computer Science) -- Graduated with Grade 1.3.
-- 
+ 
 ## Teaching
 - [WS22/23: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog22/)
 - [WS22/23: Declarative programming languages (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/dps22/)

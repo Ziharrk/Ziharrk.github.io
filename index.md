@@ -1,7 +1,34 @@
 # Kai-Oliver Prott
 This page gives an overview about me and my projects.
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
-  <div style="display: inline-block; width: 125%;">
+
+<style>
+  @media screen and (min-width: 900px) {
+    .grid-flex {
+      -webkit-column-count: 2; 
+      -moz-column-count: 2; 
+      column-count: 2;
+    }
+    .grid-item-big {
+      display: inline-block;
+      width: 125%;
+    }
+    .grid-item-pic {
+      display: inline-block; 
+      float: right;
+    }
+    #kaiprott-pic {
+      width: 250px;
+    }
+  }
+
+  @media not screen and (min-width: 900px) {
+    #kaiprott {
+      width: auto; 
+    }
+  }
+</style>
+<div class="grid-flex">
+  <div class="grid-item-big">
     <h2 id="about-me">About me</h2>
     <p>
 I am working at the Kiel University as a PhD Student since November 2020 in the Department of Computer Science. 
@@ -9,8 +36,8 @@ My Research Group is "Programming Languages and Compiler Construction", where I 
 You can find contact details at <a href="https://www.ps.informatik.uni-kiel.de/en/team/m-sc-kai-prott">my department page</a>.
     </p>
   </div>
-  <div style="display: inline-block; float: right;">
-   <img src="https://raw.githubusercontent.com/Ziharrk/Ziharrk.github.io/main/Img.png" height="250">
+  <div class="grid-item-pic">
+   <img id="kaiprott-pic" src="https://raw.githubusercontent.com/Ziharrk/Ziharrk.github.io/main/Img.png">
   </div>
 </div>
 
@@ -18,7 +45,7 @@ You can find contact details at <a href="https://www.ps.informatik.uni-kiel.de/e
 I am interested in Functional programming (preferrably with Haskell) and compiler tooling.
 In the past I have also worked a bit with Coq and on high-performance numerical computations with CPU and GPU.  
 
-My current project is a plugin for GHC that adds an implicit monadic effect to a language. The tool aims to simplify developmenmt of research languages/DSLs and to provide a tight integration with Haskell. The project is currently unpublished (see below), but the github repository for the tool is available [here](https://github.com/cau-placc/ghc-language-plugin). 
+My current project is a plugin for GHC that adds an implicit monadic effect to a language. The tool aims to simplify development of research languages/DSLs and to provide a tight integration with Haskell. The project is currently unpublished (see below), but the github repository for the tool is available [here](https://github.com/cau-placc/ghc-language-plugin). 
 Within this project I learned a lot about the internals of the Glasgow Haskell Compiler. 
 I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org/ghc/ghc/-/issues/20671) that bothered me. 
 

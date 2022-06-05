@@ -1,13 +1,17 @@
-# Kai-Oliver Prott
-kpr@informatik.un-kiel.de
-
-PhD Student at Kiel University, Computer Science
-
 ## About me 
 
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+  <div style="display: inline-block;">
+    <p>
 I am working at the Kiel University as a PhD Student since November 2020 in the Department of Computer Science. 
-My Research Group is "Programming Languages and Compiler Construction", where I am working under [Prof. Dr. Michael Hanus](https://www.informatik.uni-kiel.de/~mh/). 
-You can find contact details at [my department page](https://www.ps.informatik.uni-kiel.de/en/team/m-sc-kai-prott).
+My Research Group is "Programming Languages and Compiler Construction", where I am working under <a href="https://www.informatik.uni-kiel.de/~mh/">Prof. Dr. Michael Hanus</a>. 
+You can find contact details at <a href="https://www.ps.informatik.uni-kiel.de/en/team/m-sc-kai-prott">my department page</a>.
+    </p>
+  </div>
+  <div style="display: inline-block;">
+   <img src="https://www.ps.informatik.uni-kiel.de/en/photos/kai-prott/@@images/540f80a8-312e-419f-b335-3dabe1de8f58.jpeg">
+  </div>
+</div>
 
 ### Interests and Projects
 I am interested in Functional programming (preferrably with Haskell) and compiler tooling.

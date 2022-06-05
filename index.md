@@ -1,7 +1,7 @@
 # Kai-Oliver Prott
 This page gives an overview about me and my projects.
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-  <div style="display: inline-block; width: 133%;">
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
+  <div style="display: inline-block; width: 125%;">
     <h2 id="about-me">About me</h2>
     <p>
 I am working at the Kiel University as a PhD Student since November 2020 in the Department of Computer Science. 
@@ -10,7 +10,7 @@ You can find contact details at <a href="https://www.ps.informatik.uni-kiel.de/e
     </p>
   </div>
   <div style="display: inline-block; float: right;">
-   <img src="https://raw.githubusercontent.com/Ziharrk/Ziharrk.github.io/main/Img.png" height="300">
+   <img src="https://raw.githubusercontent.com/Ziharrk/Ziharrk.github.io/main/Img.png" height="250">
   </div>
 </div>
 

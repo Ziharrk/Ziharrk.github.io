@@ -1,10 +1,8 @@
 # Kai-Oliver Prott
 This page gives an overview about me and my projects.
-
-## About me 
-
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
   <div style="display: inline-block; width: 133%;">
+    <h2 id="about-me">About me</h2>
     <p>
 I am working at the Kiel University as a PhD Student since November 2020 in the Department of Computer Science. 
 My Research Group is "Programming Languages and Compiler Construction", where I am working under <a href="https://www.informatik.uni-kiel.de/~mh/">Prof. Dr. Michael Hanus</a>. 

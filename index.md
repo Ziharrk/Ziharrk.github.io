@@ -1,5 +1,5 @@
 # Kai-Oliver Prott
-This page gives an overview about me and my projects.
+This page gives an overview about me and my projects. ORCID: [0000-0002-5795-6308](https://orcid.org/0000-0002-5795-6308)
 
 <style>
   @media screen and (min-width: 900px) {
@@ -32,7 +32,7 @@ This page gives an overview about me and my projects.
     <h2 id="about-me">About me</h2>
     <p>
 I am working at the Kiel University as a PhD Student since November 2020 in the Department of Computer Science. 
-My Research Group is "Programming Languages and Compiler Construction", where I am working under <a href="https://www.informatik.uni-kiel.de/~mh/">Prof. Dr. Michael Hanus</a>. 
+My Research Group is "Programming Languages and Compiler Construction", where I am working with <a href="https://www.informatik.uni-kiel.de/~mh/">Prof. Dr. Michael Hanus</a>. 
 You can find contact details at <a href="https://www.ps.informatik.uni-kiel.de/en/team/m-sc-kai-prott">my department page</a>.
     </p>
   </div>
@@ -49,8 +49,9 @@ My current project is a plugin for GHC that adds an implicit monadic effect to a
 Within this project I learned a lot about the internals of the Glasgow Haskell Compiler. 
 I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org/ghc/ghc/-/issues/20671) that bothered me. 
 
-### Publications 
+### Publications and Talks
 - [Haskell⁻¹: automatic function inversion in Haskell](https://dl.acm.org/doi/10.1145/3471874.3472982) (2021, F. Teegen, K. Prott, N. Bunkenburg)
+- Student Research Competition at ICFP 2020 (3rd place): [A GHC-Plugin to Compile Effectful Languages](https://icfp20.sigplan.org/details/icfp-2020-student-research-competition/1/A-GHC-Plugin-to-Compile-Effectful-Languages) (2020, K. Prott)
 - Master's Thesis: [Extending the Glasgow Haskell Compiler for functional-logic Programs with Curry-Plugin](https://www.informatik.uni-kiel.de/~mh/lehre/abschlussarbeiten/msc/Prott.pdf) (2020, K. Prott)
 
 Yet to be published: 
@@ -58,7 +59,7 @@ Yet to be published:
 - A project on modeling Curry as a monad with memoization to increase runtime performance ([https://github.com/cau-placc/curry-monad](https://github.com/cau-placc/curry-monad)).
 
 ### Education 
-- November 2020 - current: PhD Student at Kiel University in Computer Science
+- November 2020 - present: PhD Student at Kiel University in Computer Science
 - October 2018 - October 2020: Studied at Kiel University -- Master of Science (Computer Science) -- Graduated with Grade 1.0.
 - October 2015 - October 2018: Studied  at Kiel University -- Master of Science (Computer Science) -- Graduated with Grade 1.3.
  

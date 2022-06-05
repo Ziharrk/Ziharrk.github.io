@@ -3,15 +3,15 @@ This page gives an overview about me and my projects.
 
 ## About me 
 
-<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-  <div style="display: inline-block; column-span: 2;">
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+  <div style="display: inline-block; width: 133%;">
     <p>
 I am working at the Kiel University as a PhD Student since November 2020 in the Department of Computer Science. 
 My Research Group is "Programming Languages and Compiler Construction", where I am working under <a href="https://www.informatik.uni-kiel.de/~mh/">Prof. Dr. Michael Hanus</a>. 
 You can find contact details at <a href="https://www.ps.informatik.uni-kiel.de/en/team/m-sc-kai-prott">my department page</a>.
     </p>
   </div>
-  <div style="display: inline-block; column-span: 1;">
+  <div style="display: inline-block; float: right;">
    <img src="https://raw.githubusercontent.com/Ziharrk/Ziharrk.github.io/main/Img.png" height="300">
   </div>
 </div>

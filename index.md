@@ -50,13 +50,19 @@ Within this project I learned a lot about the internals of the Glasgow Haskell C
 I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org/ghc/ghc/-/issues/20671) that bothered me. 
 
 ### Publications and Talks
+- Embedding Functional Logic Programming in Haskell via a Compiler Plugin, (to be published at [PADL 2023](https://popl23.sigplan.org/home/PADL-2023), 2023, K. Prott, F. Teegen, J. Christiansen)
 - [A Monadic Implementation of Functional Logic Programs](https://dl.acm.org/doi/10.1145/3551357.3551370) (2022, M. Hanus, K. Prott, F. Teegen)
 - [Haskell⁻¹: automatic function inversion in Haskell](https://dl.acm.org/doi/10.1145/3471874.3472982) (2021, F. Teegen, K. Prott, N. Bunkenburg)
 - Student Research Competition at ICFP 2020 (3rd place): [A GHC-Plugin to Compile Effectful Languages](https://icfp20.sigplan.org/details/icfp-2020-student-research-competition/1/A-GHC-Plugin-to-Compile-Effectful-Languages) (2020, K. Prott)
 - Master's Thesis: [Extending the Glasgow Haskell Compiler for functional-logic Programs with Curry-Plugin](https://www.informatik.uni-kiel.de/~mh/lehre/abschlussarbeiten/msc/Prott.pdf) (2020, K. Prott)
 
 Yet to be published: 
-- A project on using a plugin to add an implicit monadic effect to Haskell code ([https://github.com/cau-placc/ghc-language-plugin](https://github.com/cau-placc/ghc-language-plugin)).
+- More results from the project on using a plugin to add an implicit monadic effect to Haskell code ([https://github.com/cau-placc/ghc-language-plugin](https://github.com/cau-placc/ghc-language-plugin)).
+
+Working on: 
+- Adapting GHC to make it possible to parse different syntax using plugins. 
+  This would allow a full implementation of Curry using only GHC plugins. 
+  See [GHC issue #22401](https://gitlab.haskell.org/ghc/ghc/-/issues/22401).
 
 ### Education 
 - November 2020 - present: PhD Student at Kiel University in Computer Science

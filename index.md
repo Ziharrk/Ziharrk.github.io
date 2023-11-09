@@ -70,6 +70,8 @@ Working on:
 - October 2015 - October 2018: Studied at Kiel University -- Bachelor of Science (Computer Science) -- Graduated with Grade 1.3.
  
 ## Teaching
+- [SS24: Declarative programming languages (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/dps24/)
+- [WS23/24: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog23/)
 - SS23: Introduction to Algorithms (in german)
 - [WS22/23: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog22/)
 - [WS22/23: Declarative programming languages (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/dps22/)

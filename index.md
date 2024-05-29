@@ -70,6 +70,8 @@ Working on:
 - October 2015 - October 2018: Studied at Kiel University -- Bachelor of Science (Computer Science) -- Graduated with Grade 1.3.
  
 ## Teaching
+- [WS24/25: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog24/)
+- SS24: Introduction to Algorithms (in german)
 - [SS24: Declarative programming languages (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/dps24/)
 - [WS23/24: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog23/)
 - SS23: Introduction to Algorithms (in german)
@@ -82,3 +84,6 @@ Working on:
 - WS20/21: Concurrent and distributed programming
 - WS19/20: Functional Programming
 - [WS18/19: Advanced Programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/fortprog18/)
+
+## Other
+- 2024: Member of the examination board for computer science at Kiel University

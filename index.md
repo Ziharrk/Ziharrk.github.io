@@ -59,17 +59,13 @@ I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org
 Yet to be published: 
 - More results from the project on using a plugin to add an implicit monadic effect to Haskell code ([https://github.com/cau-placc/ghc-language-plugin](https://github.com/cau-placc/ghc-language-plugin)).
 
-Working on: 
-- Adapting GHC to make it possible to parse different syntax using plugins. 
-  This would allow a full implementation of Curry using only GHC plugins. 
-  See [GHC issue #22401](https://gitlab.haskell.org/ghc/ghc/-/issues/22401).
-
 ### Education 
 - November 2020 - present: PhD Student at Kiel University in Computer Science
 - October 2018 - October 2020: Studied at Kiel University -- Master of Science (Computer Science) -- Graduated with Grade 1.0.
 - October 2015 - October 2018: Studied at Kiel University -- Bachelor of Science (Computer Science) -- Graduated with Grade 1.3.
  
 ## Teaching
+- SS25: Introduction to Algorithms (in german)
 - [WS24/25: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog24/)
 - SS24: Introduction to Algorithms (in german)
 - [SS24: Declarative programming languages (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/dps24/)
@@ -86,4 +82,5 @@ Working on:
 - [WS18/19: Advanced Programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/fortprog18/)
 
 ## Other
-- 2024: Member of the examination board for computer science at Kiel University
+- 2025: Member of the Central Committee for Quality Assurance at Kiel University 
+- 2024-2025: Member of the examination board for computer science at Kiel University

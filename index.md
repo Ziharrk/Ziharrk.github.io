@@ -56,8 +56,9 @@ I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org
 - Student Research Competition at ICFP 2020 (3rd place): [A GHC-Plugin to Compile Effectful Languages](https://icfp20.sigplan.org/details/icfp-2020-student-research-competition/1/A-GHC-Plugin-to-Compile-Effectful-Languages) (2020, K. Prott)
 - Master's Thesis: [Extending the Glasgow Haskell Compiler for functional-logic Programs with Curry-Plugin](https://www.informatik.uni-kiel.de/~mh/lehre/abschlussarbeiten/msc/Prott.pdf) (2020, K. Prott)
 
-Yet to be published: 
-- More results from the project on using a plugin to add an implicit monadic effect to Haskell code ([https://github.com/cau-placc/ghc-language-plugin](https://github.com/cau-placc/ghc-language-plugin)).
+Under review: 
+- A paper about adding types to track determinism in a functional logic programming language 
+- An extended journal version of [A Monadic Implementation of Functional Logic Programs](https://dl.acm.org/doi/10.1145/3551357.3551370)
 
 ### Education 
 - November 2020 - present: PhD Student at Kiel University in Computer Science
@@ -65,6 +66,8 @@ Yet to be published:
 - October 2015 - October 2018: Studied at Kiel University -- Bachelor of Science (Computer Science) -- Graduated with Grade 1.3.
  
 ## Teaching
+- WS25/26: Declarative programming (in german)
+- [WS24/25: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog24/)
 - SS25: Introduction to Algorithms (in german)
 - [WS24/25: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog24/)
 - SS24: Introduction to Algorithms (in german)

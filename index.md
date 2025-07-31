@@ -50,6 +50,7 @@ Within this project I learned a lot about the internals of the Glasgow Haskell C
 I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org/ghc/ghc/-/issues/20671) that bothered me. 
 
 ### Publications and Talks
+- [Determinism Types for Functional Logic Programming](10.1145/3756907.3756915) (2025, M. Hanus, K. Prott)
 - [Embedding Functional Logic Programming in Haskell via a Compiler Plugin](doi.org/10.1007/978-3-031-24841-2_3) (2023, K. Prott, F. Teegen, J. Christiansen)
 - [A Monadic Implementation of Functional Logic Programs](https://dl.acm.org/doi/10.1145/3551357.3551370) (2022, M. Hanus, K. Prott, F. Teegen)
 - [Haskell⁻¹: automatic function inversion in Haskell](https://dl.acm.org/doi/10.1145/3471874.3472982) (2021, F. Teegen, K. Prott, N. Bunkenburg)
@@ -57,7 +58,6 @@ I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org
 - Master's Thesis: [Extending the Glasgow Haskell Compiler for functional-logic Programs with Curry-Plugin](https://www.informatik.uni-kiel.de/~mh/lehre/abschlussarbeiten/msc/Prott.pdf) (2020, K. Prott)
 
 Under review: 
-- A paper about adding types to track determinism in a functional logic programming language 
 - An extended journal version of [A Monadic Implementation of Functional Logic Programs](https://dl.acm.org/doi/10.1145/3551357.3551370)
 
 ### Education 
@@ -67,7 +67,6 @@ Under review:
  
 ## Teaching
 - WS25/26: Declarative programming (in german)
-- [WS24/25: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog24/)
 - SS25: Introduction to Algorithms (in german)
 - [WS24/25: Declarative programming (in german)](https://www.informatik.uni-kiel.de/~mh/lehre/deklprog24/)
 - SS24: Introduction to Algorithms (in german)

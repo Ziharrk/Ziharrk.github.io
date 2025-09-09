@@ -50,8 +50,8 @@ Within this project I learned a lot about the internals of the Glasgow Haskell C
 I also contributed a small patch to GHC for an [itch](https://gitlab.haskell.org/ghc/ghc/-/issues/20671) that bothered me. 
 
 ### Publications and Talks
-- [Determinism Types for Functional Logic Programming](doi.org/10.1145/3756907.3756915) (2025, M. Hanus, K. Prott)
-- [Embedding Functional Logic Programming in Haskell via a Compiler Plugin](doi.org/10.1007/978-3-031-24841-2_3) (2023, K. Prott, F. Teegen, J. Christiansen)
+- [Determinism Types for Functional Logic Programming](https://doi.org/10.1145/3756907.3756915) (2025, M. Hanus, K. Prott)
+- [Embedding Functional Logic Programming in Haskell via a Compiler Plugin](https://doi.org/10.1007/978-3-031-24841-2_3) (2023, K. Prott, F. Teegen, J. Christiansen)
 - [A Monadic Implementation of Functional Logic Programs](https://dl.acm.org/doi/10.1145/3551357.3551370) (2022, M. Hanus, K. Prott, F. Teegen)
 - [Haskell⁻¹: automatic function inversion in Haskell](https://dl.acm.org/doi/10.1145/3471874.3472982) (2021, F. Teegen, K. Prott, N. Bunkenburg)
 - Student Research Competition at ICFP 2020 (3rd place): [A GHC-Plugin to Compile Effectful Languages](https://icfp20.sigplan.org/details/icfp-2020-student-research-competition/1/A-GHC-Plugin-to-Compile-Effectful-Languages) (2020, K. Prott)
